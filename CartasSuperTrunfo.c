@@ -124,7 +124,7 @@ int main(){
     } else if (pib1 < pib2) {
         printf("Comparando os PIBs: Carta 2 venceu!\n");
     } else {
-        printf("TComparando os PIBs: As duas cartas ficaram empatadas\n");
+        printf("Comparando os PIBs: As duas cartas ficaram empatadas\n");
     }
     break;
 
